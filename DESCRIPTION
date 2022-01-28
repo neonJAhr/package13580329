@@ -1,4 +1,4 @@
-Package: 13580329package
+Package: package13580329
 Title: Package for Assignment Q3.3R.1 in PiPS
 Version: 0.0.1
 Authors@R: c(person("Arne", "John", role = c("aut", "cre"), email = "arne.john@student.uva.nl"))
